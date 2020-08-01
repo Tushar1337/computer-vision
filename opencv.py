@@ -23,7 +23,7 @@ for (x,y,w,h) in cars:
 
 
 
-cv2.imshow('My car Detector',img)
+cv2.imshow('My car Detector',bnw)
 
 
 
